@@ -4,7 +4,7 @@
 
 
 #### Contents
-- 📝 Transaction Enhancements [here]([https://medium.com/@marklowg](https://github.com/aidamate13/AMS-Knowledge-Base/blob/main/Transaction%20Enhancements))
+- 📝 Transaction Enhancements https://github.com/aidamate13/AMS-Knowledge-Base/blob/main/Transaction%20Enhancements
 - 📝 Reports [here](https://medium.com/@marklowg)
 - 📝 Transaction Enhancements [here](https://medium.com/@marklowg)
 - 📝 Transaction Enhancements [here](https://medium.com/@marklowg)
