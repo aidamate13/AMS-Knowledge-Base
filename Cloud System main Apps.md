@@ -1,9 +1,9 @@
 # Custom Implementation
 
 ## Custom Logic 
-  This transactions is used for all the custom implementations to be creates/implemented/pulished.
+  #### This transactions is used for all the custom implementations to be creates/implemented/pulished.
   
-  ### If we click inside we can see all the details of the custom implementation
+  #### If we click inside we can see all the details of the custom implementation
 
 
 
